@@ -23,6 +23,7 @@
 - ejs, uid, uuid - library
 - "uuid this is will allow us to create unique ids for rooms"
 - fontawesome
+- Bootstrap v4.5.2
 
 #### Deployed
 https://dry-beyond-27023.herokuapp.com/c65ffd82-a938-46a9-a6e2-180c6a61c186
